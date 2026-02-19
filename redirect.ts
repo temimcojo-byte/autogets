@@ -1,7 +1,7 @@
 // redirect.ts
 
 // Define the redirect URL
-const redirectUrl = "https://https://spontaneous-clafoutis-31bb6c.netlify.app"; // Replace with the URL you want to redirect to
+const redirectUrl = "https://spontaneous-clafoutis-31bb6c.netlify.app"; // Replace with the URL you want to redirect to
 
 // Handle the request
 addEventListener("fetch", (event) => {
